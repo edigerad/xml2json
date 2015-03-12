@@ -107,7 +107,7 @@ def internal_to_elem(pfsh, factory=ET.Element):
 
     """Convert an internal dictionary (not JSON!) into an Element.
 
-    Whatever Element implementation we could import will be
+    Whateve we could import will be
     used by default; if you want to use something else, pass the
     Element class as the factory parameter.
     """
